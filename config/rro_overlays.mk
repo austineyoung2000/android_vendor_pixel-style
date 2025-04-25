@@ -28,6 +28,7 @@ PRODUCT_PACKAGES += \
     GoogleWebViewOverlay \
     ManagedProvisioningPixelOverlay \
     MediaProviderOverlay \
+	NexusLauncherOverlay \
     PearlOverlay2024 \
     PixelAccessibilityMenuOverlay \
     PixelBuiltInPrintServiceOverlay \
@@ -41,7 +42,8 @@ PRODUCT_PACKAGES += \
     PixelFrameworkOverlay \
     PixelLauncherNoGestureHintOverlay \
     PixelLauncherOverlayBlur \
-    PixelLauncherOverlayCustom \
+	PixelLauncherOverlayCustom \
+	PixelLauncherConfigOverlay \
     PixelSettingsGoogleOverlay \
     PixelSettingsProviderOverlay \
     PixelSetupWizardOverlay \
